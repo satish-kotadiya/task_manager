@@ -1,10 +1,3 @@
-"""
-Entry point — starts the Task Manager API server.
-
-Usage:
-    python main.py
-"""
-
 from app.server import run_server
 from config import HOST, PORT
 

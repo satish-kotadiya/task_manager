@@ -1,6 +1,3 @@
-"""
-Application configuration — pure Python, no frameworks.
-"""
 
 import os
 
