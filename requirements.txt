@@ -1,0 +1,6 @@
+# Task Manager — Pure Python
+# No external dependencies required.
+# Python standard library is used for everything.
+#
+# Optional: only needed to run tests with the pytest command
+pytest
